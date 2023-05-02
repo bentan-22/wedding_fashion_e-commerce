@@ -2,6 +2,21 @@
 
 # General shopping list for wedding products and services
 
+# Please install the frontend dependencies
+- npm i country-state-city 
+- npm i react-icons
+- npm i react-lottie
+- npm i react-router-dom
+- npm install -D tailwindcss postcss autoprefixer
+- npx tailwindcss init
+- npm i --save react-toastify
+- npm i redux
+- npm i redux-thunk
+- npm i react-redux
+- npm i redux-toolkit
+- npm i @reduxjs/toolkit
+
+
 ## Wedding Venue
 - Ceremony Venue
 - Reception Venue
