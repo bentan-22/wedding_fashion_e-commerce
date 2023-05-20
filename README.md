@@ -72,5 +72,3 @@ As a seller, I want to be able to:
 
 ## Credits
 We would also like to thank our course instructors Leonard and Yudy, teaching assistants Yuyao and Kevin, and my fellow coursemates for their guidance and feedback in the creation of this app.
-
-We would also like to thank [Shahriar Sajeeb](https://github.com/shahriarsajeeb) for his series of [YouTube tutorials](https://www.youtube.com/watch?v=XxnUSZOgMLY) on how to create an e-commerce website.
