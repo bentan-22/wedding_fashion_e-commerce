@@ -1,4 +1,4 @@
-# Project 4
+# Wedding Fashion E-Commerce App
 This app was created by [Yu Jiapeng](https://github.com/YJP1989), [Ben Tan](https://github.com/bentan-22), and [Methavee Lu](https://github.com/methaveelu) as the fourth and final project for the course SEIF-SG-12 by General Assembly.
 
 ## How to use the app
